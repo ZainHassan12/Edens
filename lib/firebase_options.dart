@@ -50,17 +50,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD2hbCVzvenBtbq88xZGiBRwOt354EW1-w',
-    appId: '1:220032001055:android:db89f4f9865a74352ea12a',
-    messagingSenderId: '220032001055',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'edens-b484a',
     storageBucket: 'edens-b484a.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAxKfTLktHvumkHELcn33PripaLzKcJLQ4',
-    appId: '1:220032001055:ios:21f5667a91db27da2ea12a',
-    messagingSenderId: '220032001055',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'edens-b484a',
     storageBucket: 'edens-b484a.appspot.com',
     androidClientId: '220032001055-k0nlu2ah565kq3qrkeruvus648o9e2od.apps.googleusercontent.com',
